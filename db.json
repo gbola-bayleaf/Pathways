@@ -1,0 +1,334 @@
+{
+  "programs": [
+    {
+      "credentialType": "Associate",
+      "credentialTitle": "Social Studies",
+      "programAttribute": "Business",
+      "programDetail": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+      "calendarYear": "22",
+      "academicYear": "22",
+      "credit": "30",
+      "gradGPA": "3.0",
+      "programMarketingTitle": "Program Marketing Title",
+      "admissionGPA1": "2.75",
+      "admissionGPA2": "2.75",
+      "facultyArea": "1",
+      "departmentArea": "1",
+      "discipline": "1",
+      "psiProgramCode": "1",
+      "psiUrl": "Program URL displays here",
+      "cip": "1",
+      "cipModified": "123",
+      "epbcProgramTitle": "EPBC Program Title",
+      "epbcProgramId": "123",
+      "psipsCode": "1",
+      "institutionId": 15,
+      "institutionName": "Langara College",
+      "state": "Draft",
+      "id": 1
+    },
+    {
+      "credentialType": "Bachelor",
+      "credentialTitle": "Accounting",
+      "programAttribute": "Business",
+      "programDetail": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+      "calendarYear": "22",
+      "academicYear": "22",
+      "credit": "30",
+      "gradGPA": "3.0",
+      "programMarketingTitle": "Program Marketing Title",
+      "admissionGPA1": "2.75",
+      "admissionGPA2": "2.75",
+      "facultyArea": "1",
+      "departmentArea": "1",
+      "discipline": "1",
+      "psiProgramCode": "1",
+      "psiUrl": "Program URL displays here",
+      "cip": "1",
+      "cipModified": "123",
+      "epbcProgramTitle": "EPBC Program Title",
+      "epbcProgramId": "123",
+      "psipsCode": "1",
+      "institutionId": 15,
+      "institutionName": "Langara College",
+      "state": "Draft",
+      "id": 2
+    },
+    {
+      "credentialType": "Bachelor",
+      "credentialTitle": "Accounting",
+      "programAttribute": "Business",
+      "programDetail": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+      "calendarYear": "22",
+      "academicYear": "22",
+      "credit": "30",
+      "gradGPA": "3.0",
+      "programMarketingTitle": "Program Marketing Title",
+      "admissionGPA1": "2.75",
+      "admissionGPA2": "2.75",
+      "facultyArea": "1",
+      "departmentArea": "1",
+      "discipline": "1",
+      "psiProgramCode": "1",
+      "psiUrl": "Program URL displays here",
+      "cip": "1",
+      "cipModified": "123",
+      "epbcProgramTitle": "EPBC Program Title",
+      "epbcProgramId": "123",
+      "psipsCode": "1",
+      "institutionId": 15,
+      "institutionName": "Langara College",
+      "state": "Draft",
+      "id": 3
+    },
+    {
+      "credentialType": "Associate",
+      "credentialTitle": "Social Studies",
+      "programAttribute": "Business",
+      "programDetail": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+      "calendarYear": "22",
+      "academicYear": "22",
+      "credit": "30",
+      "gradGPA": "3.0",
+      "programMarketingTitle": "Program Marketing Title",
+      "admissionGPA1": "2.75",
+      "admissionGPA2": "2.75",
+      "facultyArea": "1",
+      "departmentArea": "1",
+      "discipline": "1",
+      "psiProgramCode": "1",
+      "psiUrl": "Program URL displays here",
+      "cip": "1",
+      "cipModified": "123",
+      "epbcProgramTitle": "EPBC Program Title",
+      "epbcProgramId": "123",
+      "psipsCode": "1",
+      "institutionId": 15,
+      "institutionName": "Langara College",
+      "state": "Draft",
+      "id": 4
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "name": "BIO 100",
+      "credits": 3
+    },
+    {
+      "id": "2",
+      "name": "BIO 101",
+      "credits": 3
+    },
+    {
+      "id": "3",
+      "name": "BIO 201",
+      "credits": 3
+    },
+    {
+      "id": "4",
+      "name": "BIO 204",
+      "credits": 4
+    },
+    {
+      "id": "5",
+      "name": "BIO 301",
+      "credits": 3
+    },
+    {
+      "id": "6",
+      "name": "BIO 315",
+      "credits": 6
+    }
+  ],
+  "requirements": [
+    {
+      "id": 1,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Core",
+          "levels": [
+            {
+              "level": "1",
+              "requirements": [
+                {
+                  "id": 1,
+                  "type": "credit",
+                  "credit": "9",
+                  "level": [
+                    1
+                  ],
+                  "name": "Course Requirement",
+                  "category": 1,
+                  "instruction": "Instruction text here",
+                  "description": "One required from the following list: SUBJ 101 (3), SUBJ 102 (3), SUBJ 103 (3)"
+                },
+                {
+                  "id": 2,
+                  "type": "credit",
+                  "credit": "12",
+                  "level": [
+                    1
+                  ],
+                  "name": "Course Requirement",
+                  "category": 1,
+                  "instruction": "Instruction text here",
+                  "description": "One required from the following list: SUBJ 101 (3), SUBJ 102 (3), SUBJ 103 (3)"
+                }
+              ]
+            },
+            {
+              "level": "2",
+              "requirements": [
+                {
+                  "id": 3,
+                  "type": "course",
+                  "credit": "30",
+                  "level": [
+                    2
+                  ],
+                  "name": "Generic Requirement",
+                  "category": 1,
+                  "instruction": "Instruction text here",
+                  "description": "Business Administrative students are required to complete any available minor at UNBC as part of their degree. Some minors may result in students taking more than the required 126 credit hours in order to obtain the Business Administration Major."
+                },
+                {
+                  "id": 4,
+                  "type": "credit",
+                  "credit": "12",
+                  "level": [
+                    2
+                  ],
+                  "name": "Course Requirement",
+                  "category": 1,
+                  "instruction": "Instruction text here",
+                  "description": "One required from the following list: SUBJ 101 (3), SUBJ 102 (3), SUBJ 103 (3)"
+                }
+              ]
+            },
+            {
+              "level": "3",
+              "requirements": [
+                {
+                  "id": 5,
+                  "type": "credit",
+                  "credit": "12",
+                  "level": [
+                    3
+                  ],
+                  "name": "Course Requirement",
+                  "category": 1,
+                  "instruction": "Instruction text here",
+                  "description": "One required from the following list: SUBJ 101 (3), SUBJ 102 (3), SUBJ 103 (3)"
+                },
+                {
+                  "id": 6,
+                  "type": "course",
+                  "credit": "30",
+                  "level": [
+                    3
+                  ],
+                  "name": "Subject Area",
+                  "category": 1,
+                  "instruction": "Instruction text here",
+                  "description": "2 credits from MGMT 3XX (3)"
+                }
+              ]
+            },
+            {
+              "level": "4",
+              "requirements": [
+                {
+                  "id": 7,
+                  "type": "",
+                  "credit": "30",
+                  "level": [
+                    4
+                  ],
+                  "name": "Course Requirement",
+                  "category": 1,
+                  "instruction": "Instruction text here",
+                  "description": "3 credits from [ACCT 400 (3), ACCT 404 (3)] or [ACCT 410 (3), ACCT 411 (3)]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "courseRequirements": [
+    {
+      "id": 1,
+      "conditions": [
+        {
+          "id": 1,
+          "description": "With GPA of 2.0 or higher"
+        }
+      ],
+      "exceptions": [
+        {
+          "id": 1,
+          "description": "Unless student holds a BSc degree"
+        }
+      ],
+      "requirements": [
+        {
+          "id": 1,
+          "clauses": [
+            {
+              "id": 1,
+              "courses": [
+                {
+                  "id": "3",
+                  "name": "BIO 201",
+                  "credits": 3
+                },
+                {
+                  "id": "4",
+                  "name": "BIO 204",
+                  "credits": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "clauses": [
+            {
+              "id": 2,
+              "courses": [
+                {
+                  "id": "1",
+                  "name": "BIO 100",
+                  "credits": 3
+                },
+                {
+                  "id": "2",
+                  "name": "BIO 101",
+                  "credits": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Core"
+    },
+    {
+      "id": 2,
+      "name": "Math"
+    },
+    {
+      "id": 3,
+      "name": "Elective"
+    }
+  ]
+}

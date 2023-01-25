@@ -401,7 +401,7 @@
 },
 {
 "id": 6,
-"type": "course",
+"type": "credit",
 "credit": "30",
 "level": [3],
 "name": "Subject Area",

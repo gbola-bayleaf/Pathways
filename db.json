@@ -1,1 +1,670 @@
-{"programs":[{"credentialType":"Associate","credentialTitle":"Social Studies","programAttribute":"Business","programDetail":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...","calendarYear":"2022/23","academicYear":"2022/23","credit":"30","gradGPA":"3.0","programMarketingTitle":"Program Marketing Title","admissionGPA1":"2.75","admissionGPA2":"2.75","facultyArea":"1","departmentArea":"1","discipline":"1","psiProgramCode":"1","psiUrl":"Program URL displays here","cip":"1","cipModified":"123","epbcProgramTitle":"EPBC Program Title","epbcProgramId":"123","psipsCode":"1","institutionId":15,"institutionName":"Langara College","state":"Draft","id":1},{"credentialType":"Bachelor","credentialTitle":"Accounting","programAttribute":"Business","programDetail":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...","calendarYear":"22","academicYear":"22","credit":"30","gradGPA":"3.0","programMarketingTitle":"Program Marketing Title","admissionGPA1":"2.75","admissionGPA2":"2.75","facultyArea":"1","departmentArea":"1","discipline":"1","psiProgramCode":"1","psiUrl":"Program URL displays here","cip":"1","cipModified":"123","epbcProgramTitle":"EPBC Program Title","epbcProgramId":"123","psipsCode":"1","institutionId":15,"institutionName":"Langara College","state":"Draft","id":2}],"courses":[{"id":"1","name":"BIO 100","credits":3},{"id":"2","name":"BIO 101","credits":3},{"id":"3","name":"BIO 201","credits":3},{"id":"4","name":"BIO 204","credits":4},{"id":"5","name":"BIO 301","credits":3},{"id":"6","name":"BIO 315","credits":6},{"id":"7","name":"COM 222","credits":3},{"id":"8","name":"ENGL 229","credits":3},{"id":"9","name":"MATH 100","credits":3},{"id":"10","name":"MATH 103","credits":3},{"id":"11","name":"MATH 270","credits":3},{"id":"12","name":"MATH 1XX","credits":3},{"id":"13","name":"MATH 2XX","credits":3},{"id":"14","name":"MGT 160","credits":3},{"id":"15","name":"MGT 254","credits":3},{"id":"16","name":"MGT 263","credits":3},{"id":"17","name":"MGT 264","credits":3},{"id":"18","name":"WEGD 121","credits":3},{"id":"19","name":"WEGD 131","credits":3},{"id":"20","name":"WEGD 141","credits":3},{"id":"21","name":"WEGD 142","credits":3},{"id":"22","name":"MGT 3XX","credits":3},{"id":"23","name":"ACCT 421","credits":3},{"id":"24","name":"ACCT 422","credits":3},{"id":"25","name":"ACCT 441","credits":3},{"id":"26","name":"ACCT 443","credits":3}],"requirements":[{"id":1,"courseRequirements":[{"id":1,"type":"credit","credit":"9","level":[1],"name":"Course Requirement","category":1,"instruction":"One required from the following list:","description":"","requirements":{"requirements":[{"clauses":[{"courses":[{"id":"3","name":"BIO 201","credits":3},{"id":"4","name":"BIO 204","credits":4}]}]},{"clauses":[{"courses":[{"id":"1","name":"BIO 100","credits":3},{"id":"2","name":"BIO 101","credits":3}]}]}],"conditions":[],"exceptions":[]}},{"id":2,"type":"credit","credit":"12","level":[1],"name":"Course Requirement","category":1,"instruction":"One required from the following list:","description":"","requirements":{"requirements":[{"clauses":[{"courses":[{"id":"3","name":"BIO 201","credits":3},{"id":"4","name":"BIO 204","credits":4}]}]},{"clauses":[{"courses":[{"id":"1","name":"BIO 100","credits":3},{"id":"2","name":"BIO 101","credits":3}]}]}],"conditions":[],"exceptions":[]}},{"id":4,"type":"credit","credit":"12","level":[2],"name":"Course Requirement","category":1,"instruction":"One required from the following list:","description":"","requirements":{"requirements":[{"clauses":[{"courses":[{"id":"3","name":"BIO 201","credits":3},{"id":"4","name":"BIO 204","credits":4}]}]},{"clauses":[{"courses":[{"id":"1","name":"BIO 100","credits":3},{"id":"2","name":"BIO 101","credits":3}]}]}],"conditions":[],"exceptions":[]}},{"id":5,"type":"credit","credit":"12","level":[3],"name":"Course Requirement","category":1,"instruction":"One required from the following list:","description":"","requirements":{"requirements":[{"clauses":[{"courses":[{"id":"3","name":"BIO 201","credits":3},{"id":"4","name":"BIO 204","credits":4}]}]},{"clauses":[{"courses":[{"id":"1","name":"BIO 100","credits":3},{"id":"2","name":"BIO 101","credits":3}]}]}],"conditions":[],"exceptions":[]}},{"id":6,"type":"course","credit":"30","level":[3],"name":"Subject Area","category":1,"instruction":"2 credits from","description":"","requirements":{"requirements":[{"clauses":[{"courses":[{"id":"22","name":"MGT 3XX","credits":3}]}]}],"conditions":[],"exceptions":[]}},{"id":7,"type":"credit","credit":"30","level":[4],"name":"Course Requirement","category":1,"instruction":"3 credits from","description":"3 credits from [ACCT 400 (3), ACCT 404 (3)] or [ACCT 410 (3), ACCT 411 (3)]","requirements":{"requirements":[{"clauses":[{"courses":[{"id":"23","name":"ACCT 421","credits":3},{"id":"24","name":"ACCT 422","credits":3}]}]},{"clauses":[{"courses":[{"id":"25","name":"ACCT 441","credits":3},{"id":"26","name":"ACCT 443","credits":3}]}]}],"conditions":[],"exceptions":[]}}]},{"id":2,"courseRequirements":[{"id":8,"type":"credit","credit":"54","level":[1,2],"name":"Course Requirement","category":1,"instruction":"Completion of the following:","description":"","requirements":{"requirements":[{"clauses":[{"courses":[{"id":"7","name":"COM 222","credits":3}]}]},{"clauses":[{"courses":[{"id":"8","name":"ENGL 229","credits":3}]}]},{"clauses":[{"courses":[{"id":"9","name":"MATH 100","credits":3}]}]},{"clauses":[{"courses":[{"id":"10","name":"MATH 103","credits":3}]}]},{"clauses":[{"courses":[{"id":"11","name":"MATH 270","credits":3}]}]},{"clauses":[{"courses":[{"id":"14","name":"MGT 160","credits":3}]}]},{"clauses":[{"courses":[{"id":"15","name":"MGT 254","credits":3}]}]},{"clauses":[{"courses":[{"id":"16","name":"MGT 263","credits":3}]}]},{"clauses":[{"courses":[{"id":"17","name":"MGT 264","credits":3}]}]},{"clauses":[{"courses":[{"id":"18","name":"WEGD 121","credits":3}]}]},{"clauses":[{"courses":[{"id":"19","name":"WEGD 131","credits":3}]}]},{"clauses":[{"courses":[{"id":"20","name":"WEGD 141","credits":3}]},{"courses":[{"id":"21","name":"WEGD 142","credits":3}]}]}],"conditions":[],"exceptions":[]}},{"id":9,"type":"credit","credit":"6","level":[1,2],"name":"Course Requirement","category":2,"instruction":"6 credits from","description":"","requirements":{"requirements":[{"clauses":[{"courses":[{"id":"12","name":"MATH 1XX","credits":3}]}]},{"clauses":[{"courses":[{"id":"13","name":"MATH 2XX","credits":3}]}]}],"conditions":[],"exceptions":[]}},{"id":10,"type":"credit","credit":"3","level":[1],"name":"Course Requirement","category":2,"instruction":"3 credits from","description":"","requirements":{"requirements":[{"clauses":[{"courses":[{"id":"12","name":"MATH 1XX","credits":3}]}]}],"conditions":[],"exceptions":[]}}]}],"courseRequirements":[{"id":1,"conditions":[{"id":1,"description":"With GPA of 2.0 or higher"}],"exceptions":[{"id":1,"description":"Unless student holds a BSc degree"}],"requirements":[{"id":1,"clauses":[{"id":1,"courses":[{"id":"3","name":"BIO 201","credits":3},{"id":"4","name":"BIO 204","credits":4}]}]},{"id":2,"clauses":[{"id":2,"courses":[{"id":"1","name":"BIO 100","credits":3},{"id":"2","name":"BIO 101","credits":3}]}]}]}],"categories":[{"id":1,"name":"Core"},{"id":2,"name":"Math"},{"id":3,"name":"Elective"}]}
+{
+"programs": [
+{
+"credentialType": "Associate",
+"credentialTitle": "Social Studies",
+"programAttribute": "Business",
+"programDetail": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+"calendarYear": "2022/23",
+"academicYear": "2022/23",
+"credit": "30",
+"gradGPA": "3.0",
+"programMarketingTitle": "Program Marketing Title",
+"admissionGPA1": "2.75",
+"admissionGPA2": "2.75",
+"facultyArea": "1",
+"departmentArea": "1",
+"discipline": "1",
+"psiProgramCode": "1",
+"psiUrl": "Program URL displays here",
+"cip": "1",
+"cipModified": "123",
+"epbcProgramTitle": "EPBC Program Title",
+"epbcProgramId": "123",
+"psipsCode": "1",
+"institutionId": 15,
+"institutionName": "Langara College",
+"state": "Draft",
+"id": 1
+},
+{
+"credentialType": "Bachelor",
+"credentialTitle": "Accounting",
+"programAttribute": "Business",
+"programDetail": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+"calendarYear": "22",
+"academicYear": "22",
+"credit": "30",
+"gradGPA": "3.0",
+"programMarketingTitle": "Program Marketing Title",
+"admissionGPA1": "2.75",
+"admissionGPA2": "2.75",
+"facultyArea": "1",
+"departmentArea": "1",
+"discipline": "1",
+"psiProgramCode": "1",
+"psiUrl": "Program URL displays here",
+"cip": "1",
+"cipModified": "123",
+"epbcProgramTitle": "EPBC Program Title",
+"epbcProgramId": "123",
+"psipsCode": "1",
+"institutionId": 15,
+"institutionName": "Langara College",
+"state": "Draft",
+"id": 2
+}
+],
+"requirements": [
+{
+"id": 1,
+"courseRequirements": [
+{
+"id": 1,
+"type": "credit",
+"credit": "9",
+"level": [1],
+"name": "Course Requirement",
+"category": 1,
+"instruction": "One required from the following list:",
+"description": "",
+"requirements": {
+"requirements": [
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "3",
+"name": "BIO 201",
+"credits": 3
+},
+{
+"id": "4",
+"name": "BIO 204",
+"credits": 4
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "1",
+"name": "BIO 100",
+"credits": 3
+},
+{
+"id": "2",
+"name": "BIO 101",
+"credits": 3
+}
+]
+}
+]
+}
+],
+"conditions": [],
+"exceptions": []
+}
+},
+{
+"id": 2,
+"type": "credit",
+"credit": "12",
+"level": [1],
+"name": "Course Requirement",
+"category": 1,
+"instruction": "One required from the following list:",
+"description": "",
+"requirements": {
+"requirements": [
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "3",
+"name": "BIO 201",
+"credits": 3
+},
+{
+"id": "4",
+"name": "BIO 204",
+"credits": 4
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "1",
+"name": "BIO 100",
+"credits": 3
+},
+{
+"id": "2",
+"name": "BIO 101",
+"credits": 3
+}
+]
+}
+]
+}
+],
+"conditions": [],
+"exceptions": []
+}
+},
+{
+"id": 4,
+"type": "credit",
+"credit": "12",
+"level": [2],
+"name": "Course Requirement",
+"category": 1,
+"instruction": "One required from the following list:",
+"description": "",
+"requirements": {
+"requirements": [
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "3",
+"name": "BIO 201",
+"credits": 3
+},
+{
+"id": "4",
+"name": "BIO 204",
+"credits": 4
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "1",
+"name": "BIO 100",
+"credits": 3
+},
+{
+"id": "2",
+"name": "BIO 101",
+"credits": 3
+}
+]
+}
+]
+}
+],
+"conditions": [],
+"exceptions": []
+}
+},
+{
+"id": 5,
+"type": "credit",
+"credit": "12",
+"level": [3],
+"name": "Course Requirement",
+"category": 1,
+"instruction": "One required from the following list:",
+"description": "",
+"requirements": {
+"requirements": [
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "3",
+"name": "BIO 201",
+"credits": 3
+},
+{
+"id": "4",
+"name": "BIO 204",
+"credits": 4
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "1",
+"name": "BIO 100",
+"credits": 3
+},
+{
+"id": "2",
+"name": "BIO 101",
+"credits": 3
+}
+]
+}
+]
+}
+],
+"conditions": [],
+"exceptions": []
+}
+},
+{
+"id": 6,
+"type": "credit",
+"credit": "30",
+"level": [3],
+"name": "Subject Area",
+"category": 1,
+"instruction": "2 credits from",
+"description": "",
+"requirements": {
+"requirements": [
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "22",
+"name": "MGT 3XX",
+"credits": 3
+}
+]
+}
+]
+}
+],
+"conditions": [],
+"exceptions": []
+}
+},
+{
+"id": 7,
+"type": "credit",
+"credit": "30",
+"level": [4],
+"name": "Course Requirement",
+"category": 1,
+"instruction": "3 credits from",
+"description": "3 credits from [ACCT 400 (3), ACCT 404 (3)] or [ACCT 410 (3), ACCT 411 (3)]",
+"requirements": {
+"requirements": [
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "23",
+"name": "ACCT 421",
+"credits": 3
+},
+{
+"id": "24",
+"name": "ACCT 422",
+"credits": 3
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "25",
+"name": "ACCT 441",
+"credits": 3
+},
+{
+"id": "26",
+"name": "ACCT 443",
+"credits": 3
+}
+]
+}
+]
+}
+],
+"conditions": [],
+"exceptions": []
+}
+}
+]
+},
+{
+"id": 2,
+"courseRequirements": [
+{
+"id": 8,
+"type": "credit",
+"credit": "54",
+"level": [1, 2],
+"name": "Course Requirement",
+"category": 1,
+"instruction": "Completion of the following:",
+"description": "",
+"requirements": {
+"requirements": [
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "7",
+"name": "COM 222",
+"credits": 3
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "8",
+"name": "ENGL 229",
+"credits": 3
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "9",
+"name": "MATH 100",
+"credits": 3
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "10",
+"name": "MATH 103",
+"credits": 3
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "11",
+"name": "MATH 270",
+"credits": 3
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "14",
+"name": "MGT 160",
+"credits": 3
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "15",
+"name": "MGT 254",
+"credits": 3
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "16",
+"name": "MGT 263",
+"credits": 3
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "17",
+"name": "MGT 264",
+"credits": 3
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "18",
+"name": "WEGD 121",
+"credits": 3
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "19",
+"name": "WEGD 131",
+"credits": 3
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "20",
+"name": "WEGD 141",
+"credits": 3
+}
+]
+},
+{
+"courses": [
+{
+"id": "21",
+"name": "WEGD 142",
+"credits": 3
+}
+]
+}
+]
+}
+],
+"conditions": [],
+"exceptions": []
+}
+},
+{
+"id": 9,
+"type": "credit",
+"credit": "6",
+"level": [1, 2],
+"name": "Course Requirement",
+"category": 2,
+"instruction": "6 credits from",
+"description": "",
+"requirements": {
+"requirements": [
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "12",
+"name": "MATH 1XX",
+"credits": 3
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "13",
+"name": "MATH 2XX",
+"credits": 3
+}
+]
+}
+]
+}
+],
+"conditions": [],
+"exceptions": []
+}
+},
+{
+"id": 10,
+"type": "credit",
+"credit": "3",
+"level": [1],
+"name": "Course Requirement",
+"category": 2,
+"instruction": "3 credits from",
+"description": "",
+"requirements": {
+"requirements": [
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "12",
+"name": "MATH 1XX",
+"credits": 3
+}
+]
+}
+]
+}
+],
+"conditions": [],
+"exceptions": []
+}
+}
+]
+}
+],
+"courseRequirements": [
+{
+"id": 1,
+"conditions": [
+{
+"id": 1,
+"description": "With GPA of 2.0 or higher"
+}
+],
+"exceptions": [
+{
+"id": 1,
+"description": "Unless student holds a BSc degree"
+}
+],
+"requirements": [
+{
+"id": 1,
+"clauses": [
+{
+"id": 1,
+"courses": [
+{
+"id": "3",
+"name": "BIO 201",
+"credits": 3
+},
+{
+"id": "4",
+"name": "BIO 204",
+"credits": 4
+}
+]
+}
+]
+},
+{
+"id": 2,
+"clauses": [
+{
+"id": 2,
+"courses": [
+{
+"id": "1",
+"name": "BIO 100",
+"credits": 3
+},
+{
+"id": "2",
+"name": "BIO 101",
+"credits": 3
+}
+]
+}
+]
+}
+]
+}
+]
+}

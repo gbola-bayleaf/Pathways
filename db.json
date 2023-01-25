@@ -666,5 +666,152 @@
 }
 ]
 }
+],
+
+"categories": [
+{
+"id": 1,
+"name": "Core"
+},
+{
+"id": 2,
+"name": "Math"
+},
+{
+"id": 3,
+"name": "Elective"
+}
+],
+"courses": [
+{
+"id": "1",
+"name": "BIO 100",
+"credits": 3
+},
+{
+"id": "2",
+"name": "BIO 101",
+"credits": 3
+},
+{
+"id": "3",
+"name": "BIO 201",
+"credits": 3
+},
+{
+"id": "4",
+"name": "BIO 204",
+"credits": 4
+},
+{
+"id": "5",
+"name": "BIO 301",
+"credits": 3
+},
+{
+"id": "6",
+"name": "BIO 315",
+"credits": 6
+},
+{
+"id": "7",
+"name": "COM 222",
+"credits": 3
+},
+{
+"id": "8",
+"name": "ENGL 229",
+"credits": 3
+},
+{
+"id": "9",
+"name": "MATH 100",
+"credits": 3
+},
+{
+"id": "10",
+"name": "MATH 103",
+"credits": 3
+},
+{
+"id": "11",
+"name": "MATH 270",
+"credits": 3
+},
+{
+"id": "12",
+"name": "MATH 1XX",
+"credits": 3
+},
+{
+"id": "13",
+"name": "MATH 2XX",
+"credits": 3
+},
+{
+"id": "14",
+"name": "MGT 160",
+"credits": 3
+},
+{
+"id": "15",
+"name": "MGT 254",
+"credits": 3
+},
+{
+"id": "16",
+"name": "MGT 263",
+"credits": 3
+},
+{
+"id": "17",
+"name": "MGT 264",
+"credits": 3
+},
+{
+"id": "18",
+"name": "WEGD 121",
+"credits": 3
+},
+{
+"id": "19",
+"name": "WEGD 131",
+"credits": 3
+},
+{
+"id": "20",
+"name": "WEGD 141",
+"credits": 3
+},
+{
+"id": "21",
+"name": "WEGD 142",
+"credits": 3
+},
+{
+"id": "22",
+"name": "MGT 3XX",
+"credits": 3
+},
+{
+"id": "23",
+"name": "ACCT 421",
+"credits": 3
+},
+{
+"id": "24",
+"name": "ACCT 422",
+"credits": 3
+},
+{
+"id": "25",
+"name": "ACCT 441",
+"credits": 3
+},
+{
+"id": "26",
+"name": "ACCT 443",
+"credits": 3
+}
 ]
 }

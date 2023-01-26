@@ -1,656 +1,577 @@
-    "programs": [
-        {
-            "credentialType": "Diploma",
-            "credentialTitle": "Accounting and Finance",
-            "programAttribute": "Business",
-            "programDetail": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
-            "calendarYear": "2022/23",
-            "academicYear": "2022/23",
-            "credit": "60",
-            "gradGPA": "3.0",
-            "programMarketingTitle": "Program Marketing Title",
-            "admissionGPA1": "2.75",
-            "admissionGPA2": "2.75",
-            "facultyArea": "Business and Management",
-            "departmentArea": "Accounting",
-            "discipline": "Accounting",
-            "psiProgramCode": "XX000",
-            "psiUrl": "Program URL displays here",
-            "cip": "123",
-            "cipModified": "123",
-            "epbcProgramTitle": "EPBC Program Title",
-            "epbcProgramId": "123",
-            "psipsCode": "123",
-            "institutionId": 1439,
-            "institutionName": "College of New Caledonia",
-            "state": "Published",
-            "id": 1
-        },
-        {
-            "credentialType": "Bachelor of Commerce",
-            "credentialTitle": "Accounting",
-            "programAttribute": "Business",
-            "programDetail": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
-            "calendarYear": "2022/23",
-            "academicYear": "2022/23",
-            "credit": "120",
-            "gradGPA": "3.0",
-            "programMarketingTitle": "Program Marketing Title",
-            "admissionGPA1": "2.75",
-            "admissionGPA2": "2.75",
-            "facultyArea": "Business",
-            "departmentArea": "Commerce",
-            "discipline": "Accounting",
-            "psiProgramCode": "XX000",
-            "psiUrl": "Program URL displays here",
-            "cip": "52",
-            "cipModified": "123",
-            "epbcProgramTitle": "EPBC Program Title",
-            "epbcProgramId": "123",
-            "psipsCode": "1",
-            "institutionId": 7747,
-            "institutionName": "University of Northern British Columbia",
-            "state": "Published",
-            "id": 2
-        }
-    ],
-    "requirements": [
-        {
-            "id": 1,
-            "courseRequirements": [
-                {
-                    "id": 8,
-                    "type": "credit",
-                    "credit": "54",
-                    "level": [1, 2],
-                    "name": "Credit Requirement",
-                    "category": 1,
-                    "instruction": "Completion of the following:",
-                    "description": "",
-                    "requirements": {
-                        "requirements": [
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "7",
-                                                "name": "ACC 170",
-                                                "credits": 3
-                                            },
-                                            {
-                                                "id": "8",
-                                                "name": "ACC 170L",
-                                                "credits": 0
-                                            },
-                                            {
-                                                "id": "9",
-                                                "name": "ACC 251",
-                                                "credits": 3
-                                            },
-                                            {
-                                                "id": "10",
-                                                "name": "ACC 252",
-                                                "credits": 3
-                                            },
-                                            {
-                                                "id": "11",
-                                                "name": "ACC 253",
-                                                "credits": 3
-                                            },
-                                            {
-                                                "id": "12",
-                                                "name": "ACC 255",
-                                                "credits": 3
-                                            },
-                                            {
-                                                "id": "13",
-                                                "name": "ACC 256",
-                                                "credits": 3
-                                            },
-                                            {
-                                                "id": "14",
-                                                "name": "ACC 270",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "8",
-                                                "name": "COM 204",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "1",
-                                                "name": "ENGL 103",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "9",
-                                                "name": "FIN 257",
-                                                "credits": 3
-                                            },
-                                            {
-                                                "id": "10",
-                                                "name": "MATH 258",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "14",
-                                                "name": "LAW 294",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "18",
-                                                "name": "MATH 157",
-                                                "credits": 3
-                                            },
-                                            {
-                                                "id": "19",
-                                                "name": "MATH 257",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "21",
-                                                "name": "MGT 154",
-                                                "credits": 3
-                                            },
-                                            {
-                                                "id": "22",
-                                                "name": "MGT 255",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "23",
-                                                "name": "MKT 154",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "conditions": [],
-                        "exceptions": []
-                    }
-                },
-                {
-                    "id": 9,
-                    "type": "credit",
-                    "credit": "3",
-                    "level": [1, 2],
-                    "name": "Credit Requirement",
-                    "category": 2,
-                    "instruction": "Select 1 of the following",
-                    "description": "",
-                    "requirements": {
-                        "requirements": [
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "12",
-                                                "name": "MATH 145",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "13",
-                                                "name": "MATH 1XX",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "conditions": [
-                            {
-                                "description": "3 credits of 100 Level UT MATH"
-                            }
-                        ],
-                        "exceptions": []
-                    }
-                },
-                {
-                    "id": 10,
-                    "type": "credit",
-                    "credit": "3",
-                    "level": [1],
-                    "name": "Credit Requirement",
-                    "category": 3,
-                    "instruction": "Select one elective from the following list",
-                    "description": "",
-                    "requirements": {
-                        "requirements": [
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "12",
-                                                "name": "COM 222",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "13",
-                                                "name": "ENGL 229",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "14",
-                                                "name": "MATH 100",
-                                                "credits": 3
-                                            },
-                                            {
-                                                "id": "15",
-                                                "name": "MATH 103",
-                                                "credits": 3
-                                            },
-                                            {
-                                                "id": "16",
-                                                "name": "MATH 270",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "17",
-                                                "name": "MATH 160",
-                                                "credits": 3
-                                            },
-                                            {
-                                                "id": "18",
-                                                "name": "MATH 254",
-                                                "credits": 3
-                                            },
-                                            {
-                                                "id": "19",
-                                                "name": "MATH 263",
-                                                "credits": 3
-                                            },
-                                            {
-                                                "id": "19",
-                                                "name": "MATH 264",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "17",
-                                                "name": "WEGD 121",
-                                                "credits": 3
-                                            },
-                                            {
-                                                "id": "18",
-                                                "name": "WEGD 131",
-                                                "credits": 3
-                                            },
-                                            {
-                                                "id": "19",
-                                                "name": "WEGD 141",
-                                                "credits": 3
-                                            },
-                                            {
-                                                "id": "19",
-                                                "name": "WEGD 142",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "conditions": [],
-                        "exceptions": []
-                    }
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "courseRequirements": [
-                {
-                    "id": 8,
-                    "type": "credit",
-                    "credit": "54",
-                    "level": [1, 2],
-                    "name": "Course Requirement",
-                    "category": 1,
-                    "instruction": "Completion of the following:",
-                    "description": "",
-                    "requirements": {
-                        "requirements": [
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "7",
-                                                "name": "COM 222",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "8",
-                                                "name": "ENGL 229",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "9",
-                                                "name": "MATH 100",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "10",
-                                                "name": "MATH 103",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "11",
-                                                "name": "MATH 270",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "14",
-                                                "name": "MGT 160",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "15",
-                                                "name": "MGT 254",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "16",
-                                                "name": "MGT 263",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "17",
-                                                "name": "MGT 264",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "18",
-                                                "name": "WEGD 121",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "19",
-                                                "name": "WEGD 131",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "20",
-                                                "name": "WEGD 141",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "21",
-                                                "name": "WEGD 142",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "conditions": [],
-                        "exceptions": []
-                    }
-                },
-                {
-                    "id": 9,
-                    "type": "credit",
-                    "credit": "6",
-                    "level": [1, 2],
-                    "name": "Course Requirement",
-                    "category": 2,
-                    "instruction": "6 credits from",
-                    "description": "",
-                    "requirements": {
-                        "requirements": [
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "12",
-                                                "name": "MATH 1XX",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "13",
-                                                "name": "MATH 2XX",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "conditions": [],
-                        "exceptions": []
-                    }
-                },
-                {
-                    "id": 10,
-                    "type": "credit",
-                    "credit": "3",
-                    "level": [1],
-                    "name": "Course Requirement",
-                    "category": 2,
-                    "instruction": "3 credits from",
-                    "description": "",
-                    "requirements": {
-                        "requirements": [
-                            {
-                                "clauses": [
-                                    {
-                                        "courses": [
-                                            {
-                                                "id": "12",
-                                                "name": "MATH 1XX",
-                                                "credits": 3
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "conditions": [],
-                        "exceptions": []
-                    }
-                }
-            ]
-        }
-    ],
+{
+"programs": [
+  {
+"credentialType": "Diploma",
+"credentialTitle": "Accounting and Finance",
+"programAttribute": "Business",
+"programDetail": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+"calendarYear": "2022/23",
+"academicYear": "2022/23",
+"credit": "60",
+"gradGPA": "3.0",
+"programMarketingTitle": "Program Marketing Title",
+"admissionGPA1": "2.75",
+"admissionGPA2": "2.75",
+"facultyArea": "Business and Management",
+"departmentArea": "Accounting",
+"discipline": "Accounting",
+"psiProgramCode": "XX000",
+"psiUrl": "Program URL displays here",
+"cip": "123",
+"cipModified": "123",
+"epbcProgramTitle": "EPBC Program Title",
+"epbcProgramId": "123",
+"psipsCode": "123",
+"institutionId": 1439,
+"institutionName": "College of New Caledonia",
+"state": "Published",
+"id": 1
+  },
+  {
+"credentialType": "Bachelor of Commerce",
+"credentialTitle": "Accounting",
+"programAttribute": "Business",
+"programDetail": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+"calendarYear": "2022/23",
+"academicYear": "2022/23",
+"credit": "120",
+"gradGPA": "3.0",
+"programMarketingTitle": "Credential + CIP Name",
+"admissionGPA1": "2.75",
+"admissionGPA2": "2.75",
+"facultyArea": "Business",
+"departmentArea": "Commerce",
+"discipline": "Accounting",
+"psiProgramCode": "XX000",
+"psiUrl": "Program URL displays here",
+"cip": "52",
+"cipModified": "123",
+"epbcProgramTitle": "EPBC Program Title",
+"epbcProgramId": "123",
+"psipsCode": "1",
+"institutionId": 7747,
+"institutionName": "University of Northern British Columbia",
+"state": "Published",
+"id": 2
+  }
+],
+"requirements": [
+  {
+"id": 1,
+"courseRequirements": [
+  {
+"id": 1,
+"type": "credit",
+"credit": "9",
+"level": [
+  1
+],
+"name": "Course Requirement",
+"category": 1,
+"instruction": "One required from the following list:",
+"description": "",
+"requirements": {
+  "requirements": [
+{
+  "clauses": [
+{
+  "courses": [
+{
+  "id": "3",
+  "name": "BIO 201",
+  "credits": 3
+},
+{
+  "id": "4",
+  "name": "BIO 204",
+  "credits": 4
+}
+  ]
+}
+  ]
+},
+{
+  "clauses": [
+{
+  "courses": [
+{
+  "id": "1",
+  "name": "BIO 100",
+  "credits": 3
+},
+{
+  "id": "2",
+  "name": "BIO 101",
+  "credits": 3
+}
+  ]
+}
+  ]
+}
+  ],
+  "conditions": [],
+  "exceptions": []
+}
+  },
+  {
+"id": 2,
+"type": "credit",
+"credit": "12",
+"level": [
+  1
+],
+"name": "Course Requirement",
+"category": 1,
+"instruction": "One required from the following list:",
+"description": "",
+"requirements": {
+  "requirements": [
+{
+  "clauses": [
+{
+  "courses": [
+{
+  "id": "3",
+  "name": "BIO 201",
+  "credits": 3
+},
+{
+  "id": "4",
+  "name": "BIO 204",
+  "credits": 4
+}
+  ]
+}
+  ]
+},
+{
+  "clauses": [
+{
+  "courses": [
+{
+  "id": "1",
+  "name": "BIO 100",
+  "credits": 3
+},
+{
+  "id": "2",
+  "name": "BIO 101",
+  "credits": 3
+}
+  ]
+}
+  ]
+}
+  ],
+  "conditions": [],
+  "exceptions": []
+}
+  },
+  {
+"id": 4,
+"type": "credit",
+"credit": "12",
+"level": [
+  2
+],
+"name": "Course Requirement",
+"category": 1,
+"instruction": "One required from the following list:",
+"description": "",
+"requirements": {
+  "requirements": [
+{
+  "clauses": [
+{
+  "courses": [
+{
+  "id": "3",
+  "name": "BIO 201",
+  "credits": 3
+},
+{
+  "id": "4",
+  "name": "BIO 204",
+  "credits": 4
+}
+  ]
+}
+  ]
+},
+{
+  "clauses": [
+{
+  "courses": [
+{
+  "id": "1",
+  "name": "BIO 100",
+  "credits": 3
+},
+{
+  "id": "2",
+  "name": "BIO 101",
+  "credits": 3
+}
+  ]
+}
+  ]
+}
+  ],
+  "conditions": [],
+  "exceptions": []
+}
+  },
+  {
+"id": 5,
+"type": "credit",
+"credit": "12",
+"level": [
+  3
+],
+"name": "Course Requirement",
+"category": 1,
+"instruction": "One required from the following list:",
+"description": "",
+"requirements": {
+  "requirements": [
+{
+  "clauses": [
+{
+  "courses": [
+{
+  "id": "3",
+  "name": "BIO 201",
+  "credits": 3
+},
+{
+  "id": "4",
+  "name": "BIO 204",
+  "credits": 4
+}
+  ]
+}
+  ]
+},
+{
+  "clauses": [
+{
+  "courses": [
+{
+  "id": "1",
+  "name": "BIO 100",
+  "credits": 3
+},
+{
+  "id": "2",
+  "name": "BIO 101",
+  "credits": 3
+}
+  ]
+}
+  ]
+}
+  ],
+  "conditions": [],
+  "exceptions": []
+}
+  },
+  {
+"id": 6,
+"type": "credit",
+"credit": "30",
+"level": [
+  3
+],
+"name": "Subject Area",
+"category": 1,
+"instruction": "2 credits from",
+"description": "",
+"requirements": {
+  "requirements": [
+{
+  "clauses": [
+{
+  "courses": [
+{
+  "id": "22",
+  "name": "MGT 3XX",
+  "credits": 3
+}
+  ]
+}
+  ]
+}
+  ],
+  "conditions": [],
+  "exceptions": []
+}
+  },
+  {
+"id": 7,
+"type": "credit",
+"credit": "30",
+"level": [
+  4
+],
+"name": "Course Requirement",
+"category": 1,
+"instruction": "3 credits from",
+"description": "3 credits from [ACCT 400 (3), ACCT 404 (3)] or [ACCT 410 (3), ACCT 411 (3)]",
+"requirements": {
+  "requirements": [
+{
+  "clauses": [
+{
+  "courses": [
+{
+  "id": "23",
+  "name": "ACCT 421",
+  "credits": 3
+},
+{
+  "id": "24",
+  "name": "ACCT 422",
+  "credits": 3
+}
+  ]
+}
+  ]
+},
+{
+  "clauses": [
+{
+  "courses": [
+{
+  "id": "25",
+  "name": "ACCT 441",
+  "credits": 3
+},
+{
+  "id": "26",
+  "name": "ACCT 443",
+  "credits": 3
+}
+  ]
+}
+  ]
+}
+  ],
+  "conditions": [],
+  "exceptions": []
+}
+  }
+]
+  },
+  {
+"id": 2,
+"courseRequirements": [
+  {
+"id": 8,
+"type": "credit",
+"credit": "54",
+"level": [
+  1,
+  2
+],
+"name": "Course Requirement",
+"category": 1,
+"instruction": "Completion of the following:",
+"description": "",
+"requirements": {
+"requirements": [
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "7",
+"name": "COM 222",
+"credits": 3
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "8",
+"name": "ENGL 229",
+"credits": 3
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "9",
+"name": "MATH 100",
+"credits": 3
+},
+{
+"id": "10",
+"name": "MATH 103",
+"credits": 3
+},
+{
+"id": "11",
+"name": "MATH 270",
+"credits": 3
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "14",
+"name": "MGT 160",
+"credits": 3
+},
+{
+"id": "15",
+"name": "MGT 254",
+"credits": 3
+},
+{
+"id": "16",
+"name": "MGT 263",
+"credits": 3
+},
+{
+"id": "17",
+"name": "MGT 264",
+"credits": 3
+}
+]
+}
+]
+},
+{
+"clauses": [
+{
+"courses": [
+{
+"id": "18",
+"name": "WEGD 121",
+"credits": 3
+},
+{
+"id": "19",
+"name": "WEGD 131",
+"credits": 3
+},
+{
+"id": "20",
+"name": "WEGD 141",
+"credits": 3
+}
+]
+},
+{
+"courses": [
+{
+"id": "21",
+"name": "WEGD 142",
+"credits": 3
+}
+]
+}
+]
+}
+],
+  "conditions": [],
+  "exceptions": []
+}
+  },
+  {
+"id": 9,
+"type": "credit",
+"credit": "6",
+"level": [
+  1,
+  2
+],
+"name": "Course Requirement",
+"category": 2,
+"instruction": "6 credits from",
+"description": "",
+"requirements": {
+  "requirements": [
+{
+  "clauses": [
+{
+  "courses": [
+{
+  "id": "12",
+  "name": "MATH 1XX",
+  "credits": 3
+}
+  ]
+}
+  ]
+},
+{
+  "clauses": [
+{
+  "courses": [
+{
+  "id": "13",
+  "name": "MATH 2XX",
+  "credits": 3
+}
+  ]
+}
+  ]
+}
+  ],
+  "conditions": [],
+  "exceptions": []
+}
+  },
+  {
+"id": 10,
+"type": "credit",
+"credit": "3",
+"level": [
+  1
+],
+"name": "Course Requirement",
+"category": 2,
+"instruction": "3 credits from",
+"description": "",
+"requirements": {
+  "requirements": [
+{
+  "clauses": [
+{
+  "courses": [
+{
+  "id": "12",
+  "name": "MATH 1XX",
+  "credits": 3
+}
+  ]
+}
+  ]
+}
+  ],
+  "conditions": [],
+  "exceptions": []
+}
+  }
+]
+  }
+],
 "courseRequirements": [
   {
 "id": 1,
